@@ -1,0 +1,5 @@
+Basic:
+800
+
+Premium:
+1045

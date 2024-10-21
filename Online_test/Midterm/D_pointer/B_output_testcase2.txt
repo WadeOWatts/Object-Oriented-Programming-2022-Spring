@@ -1,0 +1,28 @@
+step 1:
+level:0 hp:55 exp:7
+
+step 2:
+level:0 hp:30 exp:17
+
+step 3:
+level:0 hp:18 exp:31
+
+step 4:
+level:1 hp:80 exp:0
+
+step 5:
+level:1 hp:63 exp:25
+
+step 6:
+level:1 hp:48 exp:48
+
+step 7:
+level:2 hp:80 exp:0
+
+step 8:
+level:2 hp:54 exp:7
+
+step 9:
+level:2 hp:24 exp:20
+
+DEAD

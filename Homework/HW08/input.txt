@@ -1,0 +1,35 @@
+4
+
+name: jack
+departure city: Hongkong
+arrival city: German
+flight number: 07358
+seat number: 16
+ticket: Premium
+ticket price: 500
+
+name: bob
+departure city: Taipei
+arrival city: Japan
+flight number: 00351
+seat number: 50
+ticket: Basic
+ticket price: 350
+
+name: jessica
+departure city: Japan
+arrival city: Korean
+flight number: 00356
+seat number: 57
+ticket: Basic
+ticket price: 450
+
+name: josh
+departure city: Kaohsiung
+arrival city: Korean
+flight number: 00358
+seat number: 57
+ticket: Premium
+ticket price: 450
+
+
